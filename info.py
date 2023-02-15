@@ -71,6 +71,6 @@ if AUTO_DELETE == "True":
     AUTO_DELETE = True
 
 #Sample
-SHORTENER_SITE = "Mdisklink.link"
-SHORTNER_API = "369e131f5f63a6c5cc7e8d9b86e5974a78389afd"
+SHORTENER_SITE = "dulink.in"
+SHORTNER_API = "8b5cc87e20e037b038fbb1c86f4814401d819e93"
 
