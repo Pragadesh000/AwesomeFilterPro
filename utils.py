@@ -384,7 +384,7 @@ async def get_shortlink(link):
         https = "https"
         link = link.replace("http", https)
     url = f'https://http://Mdisklink.link/api'
-    params = {'api': SHORTENER_API,
+    params = {'api': SHORTNER_API,
               'url': link,
               }
 
