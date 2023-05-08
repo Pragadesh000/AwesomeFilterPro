@@ -71,6 +71,6 @@ if AUTO_DELETE == "True":
     AUTO_DELETE = True
 
 #Sample
-SHORTENER_SITE = "tnlink.in"
+SHORTENER_SITE = "tnshort.net"
 SHORTNER_API = "9012b0c8be803891be43e9ae6b9804999bd62f93"
 
